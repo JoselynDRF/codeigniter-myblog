@@ -1,0 +1,9 @@
+.wrap {
+	margin-top: 20px;
+}
+
+.images {
+	display: block;
+	margin: 0 auto;
+	max-width: 500px;
+}
